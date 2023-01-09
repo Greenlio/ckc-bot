@@ -1,0 +1,12 @@
+{
+  "twitch_channels": "xqc",
+  "discord_announce_channel": "cow-update",
+  "discord_mentions": {
+    "xqc": "xQc Updates"
+  },
+  "discord_bot_token": "no",
+  "twitch_client_id": "no",
+  "twitch_oauth_token": "no",
+  "twitch_check_interval_ms": 30000,
+  "twitch_use_boxart": true
+}
